@@ -30,3 +30,4 @@ pip install -r requirements.txt
 - Ajouter la rétropropagation (Backpropagation) pour un entraînement plus efficace.
   C’est le processus qui vient après la propagation avant, où l’erreur entre la prédiction et la vérité terrain est calculée, puis utilisée pour ajuster les poids du réseau.
 - Enregistrer et recharger les poids du modèle.
+- Optimiser le code afin d'avoir un temps d'exécution plus performant 
