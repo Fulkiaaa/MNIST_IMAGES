@@ -18,7 +18,9 @@ pip install -r requirements.txt
 - Entraînement avec feedback simple
 - Affichage de la précision par époque
 - Affichage de la fonction du coût (cross-entropy avec softmax)
+  
   Plus la précision est haute → meilleur le modèle.
+  
   Plus la perte est basse → meilleure la qualité des prédictions.
 - Évaluation sur données de test
 - Visualisation des prédictions
